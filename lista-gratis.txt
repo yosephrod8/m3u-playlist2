@@ -1,0 +1,85 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="france24.es" tvg-name="France 24 Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/France_24_logo.svg/320px-France_24_logo.svg.png" group-title="Noticias",France 24 Español
+https://stream.france24.com/hls/live/2037793/F24_ES_LO_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="dw.es" tvg-name="DW Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="cnn.es" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" group-title="Noticias",CNN en Español
+https://cnnespanol.cnn.com/live-tv/cnn-en-espanol-tv/
+
+#EXTINF:-1 tvg-id="tve.es" tvg-name="RTVE 24h" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Logo_rtve.svg/320px-Logo_rtve.svg.png" group-title="Noticias",RTVE 24h
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+
+#EXTINF:-1 tvg-id="tve1.es" tvg-name="La 1 (RTVE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/La_1_logo_2020.svg/320px-La_1_logo_2020.svg.png" group-title="España",La 1 (RTVE)
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+
+#EXTINF:-1 tvg-id="tve2.es" tvg-name="La 2 (RTVE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/La_2_logo_2020.svg/320px-La_2_logo_2020.svg.png" group-title="España",La 2 (RTVE)
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE (ES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Arte_Logo_2011.svg/320px-Arte_Logo_2011.svg.png" group-title="Cultura",ARTE Español
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_es/index.m3u8
+
+#EXTINF:-1 tvg-id="nasa.us" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/320px-NASA_logo.svg.png" group-title="Ciencia",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="euronews.es" tvg-name="Euronews Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Euronews_logo.svg/320px-Euronews_logo.svg.png" group-title="Noticias",Euronews Español
+https://rakuten-euronews-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pluto.us" tvg-name="Pluto TV Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pluto_TV_logo.svg/320px-Pluto_TV_logo.svg.png" group-title="Películas",Pluto TV Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a7a5c55f0b34c000704cf42/master.m3u8?deviceId=test&deviceType=web&advertisingId=test&appName=web&appVersion=na&clientTime=0&sid=test&deviceMake=Firefox&deviceModel=Firefox&serverSideAds=false&autoPlay=true
+
+#EXTINF:-1 tvg-id="pluto.accion" tvg-name="Pluto TV Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pluto_TV_logo.svg/320px-Pluto_TV_logo.svg.png" group-title="Películas",Pluto TV Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8cd2c31d4b3f001a0a3a69/master.m3u8?deviceId=test&deviceType=web&advertisingId=test&appName=web&appVersion=na&clientTime=0&sid=test&deviceMake=Firefox&deviceModel=Firefox&serverSideAds=false&autoPlay=true
+
+#EXTINF:-1 tvg-id="pluto.comedia" tvg-name="Pluto TV Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pluto_TV_logo.svg/320px-Pluto_TV_logo.svg.png" group-title="Películas",Pluto TV Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8cce631d4b3f001a09f4a6/master.m3u8?deviceId=test&deviceType=web&advertisingId=test&appName=web&appVersion=na&clientTime=0&sid=test&deviceMake=Firefox&deviceModel=Firefox&serverSideAds=false&autoPlay=true
+
+#EXTINF:-1 tvg-id="pluto.terror" tvg-name="Pluto TV Terror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Pluto_TV_logo.svg/320px-Pluto_TV_logo.svg.png" group-title="Películas",Pluto TV Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8cd4cc1d4b3f001a0a4a66/master.m3u8?deviceId=test&deviceType=web&advertisingId=test&appName=web&appVersion=na&clientTime=0&sid=test&deviceMake=Firefox&deviceModel=Firefox&serverSideAds=false&autoPlay=true
+
+#EXTINF:-1 tvg-id="aljazeera.es" tvg-name="Al Jazeera Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Al_Jazeera_MediaNetwork_Logo.svg/320px-Al_Jazeera_MediaNetwork_Logo.svg.png" group-title="Noticias",Al Jazeera Español
+https://aljazeera-esp-live.adaptive.level3.net/al-jazeera-espanol/ngrp:aje_all/chunklist_b512000.m3u8
+
+#EXTINF:-1 tvg-id="telesur.ve" tvg-name="TeleSUR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TeleSUR_logo.svg/320px-TeleSUR_logo.svg.png" group-title="Noticias",TeleSUR
+https://telesurenglish.net/livetv/
+
+#EXTINF:-1 tvg-id="dwtv.en" tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png" group-title="Noticias",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="france24.en" tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/France_24_logo.svg/320px-France_24_logo.svg.png" group-title="Noticias",France 24 English
+https://stream.france24.com/hls/live/2037793/F24_EN_LO_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/320px-New_Bloomberg_Logo.svg.png" group-title="Noticias",Bloomberg TV
+https://cdn3.viblast.com/streams/hls/bloomberg/bloomberg.m3u8
+
+#EXTINF:-1 tvg-id="nasa2.us" tvg-name="NASA TV Media" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/320px-NASA_logo.svg.png" group-title="Ciencia",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2014074/NASA-NTV2-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="rakuten.accion" tvg-name="Rakuten TV Acción" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" group-title="Películas",Rakuten TV Acción
+https://rakuten-actionmovies-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rakuten.comedia" tvg-name="Rakuten TV Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" group-title="Películas",Rakuten TV Comedia
+https://rakuten-comedymovies-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rakuten.drama" tvg-name="Rakuten TV Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" group-title="Películas",Rakuten TV Drama
+https://rakuten-drama-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rakuten.terror" tvg-name="Rakuten TV Terror" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" group-title="Películas",Rakuten TV Terror
+https://rakuten-horror-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rakuten.thriller" tvg-name="Rakuten TV Thriller" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" group-title="Películas",Rakuten TV Thriller
+https://rakuten-thriller-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rakuten.familia" tvg-name="Rakuten TV Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rakuten_TV_logo.svg/320px-Rakuten_TV_logo.svg.png" group-title="Películas",Rakuten TV Familia
+https://rakuten-familymovies-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr2" tvg-name="ARTE French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Arte_Logo_2011.svg/320px-Arte_Logo_2011.svg.png" group-title="Cultura",ARTE French
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="cspan.us" tvg-name="C-SPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/C-SPAN_logo.svg/320px-C-SPAN_logo.svg.png" group-title="Noticias",C-SPAN
+https://cspan1.akamaized.net/hls/live/506952/cspan1/master.m3u8
+
+#EXTINF:-1 tvg-id="cspan2.us" tvg-name="C-SPAN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/C-SPAN_logo.svg/320px-C-SPAN_logo.svg.png" group-title="Noticias",C-SPAN 2
+https://cspan2.akamaized.net/hls/live/506953/cspan2/master.m3u8
